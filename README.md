@@ -1,4 +1,3 @@
-# Dillinger
 ## _Fonction Mail .fr_
 
 ## Features
