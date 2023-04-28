@@ -18,6 +18,3 @@
 
 - le fichier input.txt doit etre situé au même emplacement que le fichier python.
 
-## License
-
-- RS Corp 
